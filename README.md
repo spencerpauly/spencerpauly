@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-I'm on twitter [@spencerpauly](https://twitter.com/SpencerPauly)
+I'm on twitter [@spencerpauly](https://twitter.com/SpencerPauly).
 
-Building [Engine.so 🚂](https://engine.so)
+Building [🚂 Engine.so - A Self-Service Knowledge base addon for Notion](https://engine.so).
 
-Building [ ⛷️ Skiwise ](https://skiwise-app.com) - 7,000 Users
+Building [⛷️ Skiwise - The one-stop mobile app for Nordic Skiers ](https://skiwise-app.com) - 7,000 Users.
 
-I'm also a huge fan of Notion! I run the [Awesome Notion Repo](https://github.com/spencerpauly/awesome-notion)
+I also run the [awesome notion repo](https://github.com/spencerpauly/awesome-notion).
 
 <!--
 **spencerpauly/spencerpauly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
