@@ -4,7 +4,7 @@ I'm on twitter [@spencerpauly](https://twitter.com/SpencerPauly)
 
 Building [Engine.so 🚂](https://engine.so)
 
-Building [Skiwise ⛷️](https://skiwise-app.com) - 7,000 Users
+Building [ ⛷️ Skiwise ](https://skiwise-app.com) - 7,000 Users
 
 I'm also a huge fan of Notion! I run the [Awesome Notion Repo](https://github.com/spencerpauly/awesome-notion)
 
