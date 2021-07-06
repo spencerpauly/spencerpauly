@@ -2,7 +2,7 @@
 
 I'm on twitter [@spencerpauly](https://twitter.com/SpencerPauly).
 
-Building 🚂&nbsp;[Engine.so - A Self-Service Knowledge Base Addon for Notion](https://engine.so).
+Building 🚂 &nbsp;[Engine.so - A Self-Service Knowledge Base Addon for Notion](https://engine.so).
 
 Building [⛷️   Skiwise - The All-in-one Mobile App for Nordic Skiers ](https://skiwise-app.com) - 7,000 Users.
 
